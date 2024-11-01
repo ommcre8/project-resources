@@ -1,22 +1,22 @@
-#License
-MIT License:
+# License
+# MIT License:
 Permissive: Allows almost unrestricted use, modification, and distribution.
 Simple and concise: Easy to understand and implement.
 Popular choice: Widely used in the open-source community.
 Apache License 2.0:
-Permissive: Similar to the MIT License but with additional protections against patent claims.
+# Permissive: Similar to the MIT License but with additional protections against patent claims.
 Explicit grant of patent rights: Provides more legal protection for contributors and users.
 Popular for larger projects: Often used by large-scale open-source projects.
-GNU General Public License (GPL):
+# GNU General Public License (GPL):
 Copyleft: Requires that any derivative work also be open-source and distributed under the same license.
 Strongly protective: Ensures that the code and any modifications remain free and open.
 Ideal for collaborative projects: Encourages sharing and collaboration.
-Creative Commons (CC) Licenses:
+# Creative Commons (CC) Licenses:
 Flexible: Offers various levels of permissions, from very permissive to more restrictive.
 Non-software projects: Often used for creative works like documentation, media, and educational resources.
 Given your project involves web development resources, the MIT License might be a great fit due to its simplicity and permissiveness. Here’s an example of an MIT License for your repository:
 
-MIT License
+# MIT License
 
 Copyright (c) 2024 [omyadav141]
 
