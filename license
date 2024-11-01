@@ -1,2 +1,39 @@
 #License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+MIT License:
+Permissive: Allows almost unrestricted use, modification, and distribution.
+Simple and concise: Easy to understand and implement.
+Popular choice: Widely used in the open-source community.
+Apache License 2.0:
+Permissive: Similar to the MIT License but with additional protections against patent claims.
+Explicit grant of patent rights: Provides more legal protection for contributors and users.
+Popular for larger projects: Often used by large-scale open-source projects.
+GNU General Public License (GPL):
+Copyleft: Requires that any derivative work also be open-source and distributed under the same license.
+Strongly protective: Ensures that the code and any modifications remain free and open.
+Ideal for collaborative projects: Encourages sharing and collaboration.
+Creative Commons (CC) Licenses:
+Flexible: Offers various levels of permissions, from very permissive to more restrictive.
+Non-software projects: Often used for creative works like documentation, media, and educational resources.
+Given your project involves web development resources, the MIT License might be a great fit due to its simplicity and permissiveness. Here’s an example of an MIT License for your repository:
+
+MIT License
+
+Copyright (c) 2024 [omyadav141]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
